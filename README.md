@@ -29,5 +29,5 @@
 ---
 
 ## 📫 Conecta conmigo
-- [LinkedIn](www.linkedin.com/in/franciscojuliáncuesta-bbbb25296)  
+- [LinkedIn] (www.linkedin.com/in/franciscojuliáncuesta-bbbb25296)  
 - ✉️ pacojuliancuesta@gmail.com
