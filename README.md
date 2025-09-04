@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hola, soy Francisco Julián
 
-<!--
-**pacojuliancuesta/pacojuliancuesta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Técnico en **Sistemas Microinformáticos y Redes** y estudiante de **Administración de Sistemas Informáticos en Red (ASIR)** en Medac.  
+🔐 Apasionado por la **ciberseguridad, redes y sistemas Linux**, documentando mi aprendizaje con proyectos prácticos en este perfil.  
+⚡ Experiencia como **Técnico de Campo en Diebold Nixdorf**, trabajando en entornos bancarios y retail con soporte en hardware y software.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Actualmente aprendiendo
+- Ciberseguridad (Cisco, Google Cybersecurity, TryHackMe)
+- Hardening de servidores Linux
+- Scripts en Python para automatización
+- Redes y Firewalls (pfSense, UFW, VLANs)
+
+---
+
+## 📂 Proyectos destacados
+- 🔗 Laboratorio de seguridad en redes (Kali + Ubuntu + VirtualBox)
+- 🔗 Scripts básicos de automatización en Linux/Python
+- 🔗 Write-ups documentados de salas de TryHackMe
+
+---
+
+## 🌱 Objetivos 2025
+- Alcanzar certificaciones iniciales en ciberseguridad (Cisco, Google, CompTIA Security+)
+- Mejorar mi nivel de inglés técnico y mecanografía
+- Construir un portfolio con proyectos de redes, sistemas y ciberseguridad
+
+---
+
+## 📫 Conecta conmigo
+- [LinkedIn](www.linkedin.com/in/franciscojuliáncuesta-bbbb25296)  
+- ✉️ pacojuliancuesta@gmail.com
