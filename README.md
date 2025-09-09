@@ -1,33 +1,42 @@
-# 👋 Hola, soy Francisco Julián
+ 👋 ¡Hola! Soy Francisco Julián  
 
-💻 Técnico en **Sistemas Microinformáticos y Redes** y estudiante de **Administración de Sistemas Informáticos en Red (ASIR)** en Medac.  
-🔐 Apasionado por la **ciberseguridad, redes y sistemas Linux**, documentando mi aprendizaje con proyectos prácticos en este perfil.  
-⚡ Experiencia como **Técnico de Campo en Diebold Nixdorf**, trabajando en entornos bancarios y retail con soporte en hardware y software.  
-
----
-
-## 🚀 Actualmente aprendiendo
-- Ciberseguridad (Cisco, Google Cybersecurity, TryHackMe)
-- Hardening de servidores Linux
-- Scripts en Python para automatización
-- Redes y Firewalls (pfSense, UFW, VLANs)
+💻 Estudiante de **ASIR (Administración de Sistemas Informáticos en Red)**  
+🔐 Apasionado por la **ciberseguridad, Linux y redes**  
+⚡ Experiencia previa como **Técnico de Campo en Diebold Nixdorf**  
+📂 Construyendo proyectos prácticos y compartiéndolos aquí en GitHub  
 
 ---
 
-## 📂 Proyectos destacados
-- 🔗 Laboratorio de seguridad en redes (Kali + Ubuntu + VirtualBox)
-- 🔗 Scripts básicos de automatización en Linux/Python
-- 🔗 Write-ups documentados de salas de TryHackMe
+## 🚀 Tecnologías que uso / estoy aprendiendo  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows,python,bash,git,github,vscode,virtualbox" />
+</p>
 
 ---
 
-## 🌱 Objetivos 2025
-- Alcanzar certificaciones iniciales en ciberseguridad (Cisco, Google, CompTIA Security+)
-- Mejorar mi nivel de inglés técnico y mecanografía
-- Construir un portfolio con proyectos de redes, sistemas y ciberseguridad
+## 📂 Proyectos destacados  
+- 🔗 [Laboratorio de seguridad en redes (Kali + Ubuntu + VirtualBox)](https://github.com/pacojuliancuesta/lab-red-seguridad)  
+- 🔗 Scripts básicos en **Python** para automatización  
+- 🔗 Documentación de retos de **TryHackMe**  
 
 ---
 
-## 📫 Conecta conmigo
-- [LinkedIn] (www.linkedin.com/in/franciscojuliáncuesta-bbbb25296)  
-- ✉️ pacojuliancuesta@gmail.com
+## 🌱 Objetivos 2025  
+- Mejorar mis conocimientos en **ciberseguridad defensiva** (Blue Team)  
+- Obtener certificaciones iniciales (**Cisco, Google, CompTIA Security+**)  
+- Perfeccionar inglés técnico y mecanografía para el trabajo IT  
+- Publicar al menos **1 proyecto mensual** en GitHub  
+
+---
+
+## 📊 Estadísticas de GitHub  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pacojuliancuesta&show_icons=true&theme=tokyonight" height="150"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacojuliancuesta&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 📫 Conecta conmigo  
+- [LinkedIn](www.linkedin.com/in/franciscojuliáncuesta-bbbb25296)  
+- 📂 [GitHub](https://github.com/pacojuliancuesta)
