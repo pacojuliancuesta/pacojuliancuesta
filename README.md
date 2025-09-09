@@ -14,7 +14,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,python,bash,git,github,vscode,virtualbox,azure,docker" />
+ <img src="https://skillicons.dev/icons?i=linux,windows,python,bash,git,github,vscode,virtualbox" />
 </p>
 
 ---
@@ -44,20 +44,6 @@
 
 ---
 
-## 🎯 TryHackMe & HackTheBox
-<p align="center">
-  <a href="https://tryhackme.com/p/pacojuliancuesta">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/TU_TRYHACKME_USER.png" alt="TryHackMe Badge" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://app.hackthebox.com/profile/pacojuliancuesta">
-    <img src="https://www.hackthebox.com/badge/image/pacojuliancuesta" alt="HackTheBox Badge" />
-  </a>
-</p>
-
----
 
 ## 🌐 Conecta conmigo
 <p align="center">
