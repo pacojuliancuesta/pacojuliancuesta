@@ -47,7 +47,7 @@
 
 ## 🌐 Conecta conmigo
 <p align="center">
-  <a href="www.linkedin.com/in/franciscojuliáncuesta-bbbb25296">
+  <a href="www.linkedin.com/in/franciscojuliáncuesta-técnico-en-administración-de-sistemas-en-red">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/pacojuliancuesta">
