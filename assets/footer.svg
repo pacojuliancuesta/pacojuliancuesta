@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+<style>
+  .w1 { animation: drift 9s ease-in-out infinite alternate; }
+  .w2 { animation: drift 7s ease-in-out infinite alternate-reverse; }
+  @keyframes drift { to { transform: translateX(-60px); } }
+  .msg { font: 600 19px 'Segoe UI', Ubuntu, -apple-system, 'Helvetica Neue', Arial, sans-serif; fill: #ffffff; }
+  .sm { font: 500 14px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, 'DejaVu Sans Mono', monospace; fill: #9cc9ff; }
+</style>
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#123c66"/><stop offset=".5" stop-color="#0d1f36"/><stop offset="1" stop-color="#1b4f86"/></linearGradient>
+</defs>
+<path class="w2" d="M0 60 C200 20 400 100 600 60 S1000 20 1260 60 V150 H0 Z" fill="#2f81f7" fill-opacity=".25"/>
+<path class="w1" d="M0 75 C220 40 420 115 640 75 S1040 40 1260 78 V150 H0 Z" fill="url(#g)"/>
+<text x="600.0" y="118" class="msg" text-anchor="middle">Gracias por pasarte · ¿Hablamos?</text>
+<text x="600.0" y="140" class="sm" text-anchor="middle">linkedin.com/in/franciscojuliancuesta</text>
+</svg>
